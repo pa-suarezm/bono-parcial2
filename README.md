@@ -5,6 +5,7 @@
 <ul>
     <li>La estructura de datos para manejar el árbol funciona correctamente</li>
     <li>No logré pintar el árbol en pantalla</li>
+    <li>Se muestran los nodos del árbol por consola cada que se agrega un nuevo nodo con el formulario</li>
 </ul>
 
 # Instrucciones
